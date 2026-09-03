@@ -137,7 +137,7 @@
 ### Статистика GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-o6cm-rfvs2wdge-hououin-phoenix.vercel.app/api?username=HououinPhoenix"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HououinPhoenix&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
 
 </p>
 
