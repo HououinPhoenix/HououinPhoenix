@@ -138,7 +138,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-o6cm-rfvs2wdge-hououin-phoenix.vercel.app/api?username=HououinPhoenix"/>
-  <img src="https://github-readme-stats-o6cm-rfvs2wdge-hououin-phoenix.vercel.app/api/top-langs/?username=HououinPhoenix&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+
 </p>
 
 ---
