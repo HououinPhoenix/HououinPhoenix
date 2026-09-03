@@ -137,7 +137,7 @@
 ### Статистика GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HououinPhoenix&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
+  ![GitHub Stats](https://github-readme-stats-self-rho-82.vercel.app?username=HououinPhoenix&show_icons=true&theme=dark&hide_border=true)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HououinPhoenix&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
