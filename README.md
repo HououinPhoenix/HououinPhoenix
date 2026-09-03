@@ -28,27 +28,22 @@
 ####  Контейнеризация и оркестрация
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-- **Docker**: написание оптимизированных `Dockerfile` (multi-stage builds), работа с `docker-compose` для поднятия многосервисных приложений, управление томами и сетями.
-- **Kubernetes**: развёртывание приложений через `Deployment`, `StatefulSet`, настройка `Service` (ClusterIP, NodePort, LoadBalancer), `Ingress`-контроллеры, управление конфигурацией через `ConfigMap` и `Secrets`, базовое знакомство с `Helm`.
+
 
 ####  Базы данных
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-- **Реляционные**: PostgreSQL (проектирование схем, индексы, транзакции, CTE, оконные функции).
-- **NoSQL**: MongoDB (документоориентированные данные), Redis (кэширование, сессии, очереди через Pub/Sub).
+
 
 ####  Мониторинг и логирование
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
-- **Мониторинг**: сбор метрик с приложений через `Prometheus`, визуализация дашбордов в `Grafana`, настройка `Alertmanager` для оповещений.
-- **Логирование**: централизованный сбор логов через стек **ELK** (Elasticsearch, Logstash, Kibana) или **EFK** (с Fluentd), построение поисковых запросов и фильтрация.
 
 ####  CI/CD и автоматизация
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLabCI-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-- Написание пайплайнов для автоматического тестирования, сборки и деплоя (в т.ч. в Kubernetes-кластер).
 
 ####  Машинное обучение и Data Science (Python)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
