@@ -9,43 +9,40 @@
 
 ## Обо мне
 
--  Студент **ПГУ (2023–2027)** факультета вычислительной техники «Информатика и вычислительная техника».
--  Работаю **Инженером SOA (Junior)** в компании **Neoflex** (с мая 2023, 0.5 ставки).
--  Мой подход: **сначала разобраться в задаче, найти скрытые риски и слабые места, только потом писать код**. Часто нахожу потенциальные ошибки на этапе анализа требований, а не в процессе отладки.
--  Сейчас активно развиваюсь в области **распределённых систем** и **DevOps-практик**.
+- Студент **ПГУ (2023–2027)** факультета вычислительной техники «Информатика и вычислительная техника».
+- Работаю **Инженером SOA (Junior)** в компании **Neoflex** (с мая 2023, 0.5 ставки).
+- Мой подход: **сначала разобраться в задаче, найти скрытые риски и слабые места, только потом писать код**. Часто нахожу потенциальные ошибки на этапе анализа требований, а не в процессе отладки.
+- Сейчас активно развиваюсь в области **распределённых систем** и **DevOps-практик**.
 
 ---
 
-###  Технологический стек (навыки)
+### Технологический стек (навыки)
 
-####  Языки программирования
+#### Языки программирования
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-
-####  Контейнеризация и оркестрация
+#### Контейнеризация и оркестрация
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-
-####  Базы данных
+#### Базы данных
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
-####  Мониторинг и логирование
+#### Мониторинг и логирование
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
 
-####  CI/CD и автоматизация
+#### CI/CD и автоматизация
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLabCI-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
-####  Машинное обучение и Data Science (Python)
+#### Машинное обучение и Data Science (Python)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -54,10 +51,10 @@
 
 ---
 
-###  Сертификаты и курсы
+### Сертификаты и курсы
 
 <details>
-<summary><b> Нетология (развернуть)</b></summary>
+<summary><b>Нетология (развернуть)</b></summary>
 
 - **Программист на языке Go**  
 - **Инженер данных (Data Engineer)**  
@@ -66,7 +63,7 @@
 </details>
 
 <details>
-<summary><b> Stepik (развернуть)</b></summary>
+<summary><b>Stepik (развернуть)</b></summary>
 
 *Список пополняется:*  
 
@@ -76,33 +73,54 @@
 
 ### Показательные репозитории по стекам
 
-> *Здесь собраны проекты, которые демонстрируют мой опыт в каждой конкретной области. Ссылки будут заменяться на реальные репозитории по мере их добавления.*
+<details>
+<summary><b>▶ Нажмите, чтобы развернуть все проекты</b></summary>
 
-####  Go-разработка
+<br/>
+
+<details>
+<summary><b> Go-разработка</b></summary>
+
 - **`[Название репозитория]`** — *краткое описание, что показывает (например, работа с gRPC, middleware, тестирование).*  
   [Репозиторий](#)  
 - **`[Название репозитория]`** — *например, многопоточный воркер с каналами и контекстом.*  
   [Репозиторий](#)
 
-####  Java-разработка
+</details>
+
+<details>
+<summary><b> Java-разработка</b></summary>
+
 - **`[Название репозитория]`** — *например, REST API на Spring Boot с JPA и миграциями.*  
   [Репозиторий](#)  
 - **`[Название репозитория]`** — *например, реализация очереди сообщений на Java Concurrency.*  
   [Репозиторий](#)
 
-####  Python (Backend & Data)
+</details>
+
+<details>
+<summary><b> Python (Backend & Data)</b></summary>
+
 - **`[Название репозитория]`** — *ETL-пайплайн с Pandas и SQLAlchemy.*  
   [Репозиторий](#)  
 - **`[Название репозитория]`** — *FastAPI / Django проект с асинхронными задачами (Celery/Redis).*  
   [Репозиторий](#)
 
-####  ML / Data Science
+</details>
+
+<details>
+<summary><b> ML / Data Science</b></summary>
+
 - **`[Название репозитория]`** — *ноутбук с исследовательским анализом данных (EDA) и моделью на Scikit-learn.*  
   [Репозиторий](#)  
 - **`[Название репозитория]`** — *эксперимент с нейросетью на PyTorch (классификация изображений/текста).*  
   [Репозиторий](#)
 
-####  DevOps / Инфраструктура
+</details>
+
+<details>
+<summary><b> DevOps / Инфраструктура</b></summary>
+
 - **`[Название репозитория]`** — *полный стек мониторинга (Prometheus + Grafana + Alertmanager) в docker-compose.*  
   [Репозиторий](#)  
 - **`[Название репозитория]`** — *манифесты Kubernetes для деплоя микросервисного приложения (Ingress, ConfigMap, PersistentVolume).*  
@@ -110,13 +128,17 @@
 - **`[Название репозитория]`** — *настройка централизованного логирования через ELK с фильтрацией.*  
   [Репозиторий](#)
 
+</details>
+
+</details>
+
 ---
 
-###  Статистика GitHub
+### Статистика GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PandaDimak&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandaDimak&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HououinPhoenix&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HououinPhoenix&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
@@ -124,6 +146,4 @@
 ### Контакты
 
 - Telegram: [@Panda_DimaK](https://t.me/Panda_DimaK)  
-- GitHub: [HououinPhoenix](https://github.com/PandaDimak)  
-
----
+- GitHub: [HououinPhoenix](https://github.com/HououinPhoenix)  
