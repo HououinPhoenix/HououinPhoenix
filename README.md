@@ -51,11 +51,6 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-- **Библиотеки обработки данных**: `Pandas`, `NumPy`, `SciPy`.
-- **Визуализация**: `Matplotlib`, `Seaborn`.
-- **Модели ML**: `Scikit-learn` (классика), `XGBoost` / `LightGBM` (градиентный бустинг).
-- **Глубокое обучение**: базовое знакомство с `TensorFlow` / `Keras` и `PyTorch` (CNN, RNN).
-- **MLOps**: начальный опыт с `MLflow` для отслеживания экспериментов.
 
 ---
 
