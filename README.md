@@ -6,13 +6,6 @@
 -->
 
 <h1 align="center">👋 Привет, я Дмитрий Конкин</h1>
-
-<p align="center">
-  <a href="https://t.me/Panda_DimaK"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://github.com/HououinPhoenix"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <img src="https://komarev.com/ghpvc/?username=PandaDimak&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 ### Обо мне
 
