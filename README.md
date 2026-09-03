@@ -137,8 +137,8 @@
 ### Статистика GitHub
 
 <p align="center">
-
-  <img src="[github-readme-stats-o6cm-rfvs2wdge-hououin-phoenix.vercel.app](https://github-readme-stats-o6cm-rfvs2wdge-hououin-phoenix.vercel.app/api/top-langs/?username=HououinPhoenix&layout=compact&theme=dark&hide_border=true)" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-o6cm-rfvs2wdge-hououin-phoenix.vercel.app/api?username=HououinPhoenix&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-o6cm-rfvs2wdge-hououin-phoenix.vercel.app/api/top-langs/?username=HououinPhoenix&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
