@@ -135,11 +135,16 @@
 
 ---
 
-### Статистика GitHub
+### Статистика 
 
 <p align="center">
   <img src="https://github-readme-stats-self-rho-82.vercel.app/api?username=HououinPhoenix&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
+</p>
 
+<p align="center">
+  <a href="https://leetcode.com/u/hououinphoenix/">
+    <img src="https://leetcard.jacoblin.cool/hououinphoenix?theme=dark" alt="LeetCode Stats" />
+  </a>
 </p>
 
 ---
@@ -148,3 +153,4 @@
 
 - Telegram: [@Panda_DimaK](https://t.me/Panda_DimaK)  
 - GitHub: [HououinPhoenix](https://github.com/HououinPhoenix)  
+- LeetCode: [hououinphoenix](https://leetcode.com/u/hououinphoenix/)
